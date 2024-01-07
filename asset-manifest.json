@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Style-components-card/static/css/main.31d6cfe0.css",
+    "main.js": "/Style-components-card/static/js/main.2e777b68.js",
+    "static/js/787.9015cdee.chunk.js": "/Style-components-card/static/js/787.9015cdee.chunk.js",
+    "static/media/Rectangle 1.png": "/Style-components-card/static/media/Rectangle 1.6ce1a1a5a2128ce739b1.png",
+    "index.html": "/Style-components-card/index.html",
+    "main.2e777b68.js.map": "/Style-components-card/static/js/main.2e777b68.js.map",
+    "787.9015cdee.chunk.js.map": "/Style-components-card/static/js/787.9015cdee.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.2e777b68.js"
+  ]
+}
