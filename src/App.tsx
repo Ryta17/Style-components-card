@@ -14,7 +14,7 @@ function App() {
         <StyledImg></StyledImg>
         <StyledTitle>Headline</StyledTitle>
         <StyledText>
-          Faucibu. Faucibus. Sit sit sapien sit tempusrisu ut. Sit molestie
+          Faucib. Faucibus. Sit sit sapien sit tempusrisu ut. Sit molestie
           ornare in venen.
         </StyledText>
         <StyledBtn btnType={"primary"}>See more</StyledBtn>
